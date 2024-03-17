@@ -1,6 +1,8 @@
 # Ninja Form Tracking with Google Tag Manager
 ## This datalayer got give you dataLayer event and form inputs values which is required for enhance conversion tracking
 
+[Video Tutorial 👉]([https://duckduckgo.com](https://youtu.be/JEtaWux-Jds))
+
 ### How to use 
 1. In Google Tag Manager, create a new tag as a custom HTML tag.
 2. Inside the tag, paste the entire code from the `ninjaform-datalayer.html` file provided in this repository. 
